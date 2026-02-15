@@ -195,18 +195,8 @@ Comprehensive technical specification and implementation details available in:
 
 This is a personal portfolio project. If you'd like to suggest improvements, please open an issue.
 
-## 📝 License
 
-MIT License - see [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Hugging Face for transformer models
 - FinBERT by ProsusAI
